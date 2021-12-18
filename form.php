@@ -12,3 +12,4 @@ else{
 }
 ?>
 <?php echo 'hello GitHub'; ?>
+<?php echo 'bye git'; ?>
