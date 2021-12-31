@@ -11,6 +11,3 @@ else{
     echo 'bye bye' . $_GET ['username'];
 }
 ?>
-<?php echo 'hello GitHub'; ?>
-<?php echo 'bye git'; ?>
-<?php echo 'git'; ?>
